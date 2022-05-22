@@ -6,23 +6,23 @@
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "鍗忚VMess鎴朧LESS锛岃濉皬鍐欑殑vmess鎴杤less",
       "value": "vmess",
       "required": true
     },
     "UUID": {
-      "description": "用户的主ID",
+      "description": "鐢ㄦ埛鐨勪富ID",
       "value": "",
       "required": false
     },
     "WS_PATH": {
-      "description": "websocket路径",
+      "description": "websocket璺緞",
       "value": "/ray",
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/hyhgsj73/vedt",
+  "repository": "https://github.com/hyhgsj73/vedt",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
